@@ -55,15 +55,7 @@ Access DocuForge from any device with a responsive design that works seamlessly 
 
 ## 🚀 Getting Started
 
-1. Sign up for an account at [DocuForge.com](https://docuforge.com)
-2. Complete your profile with your business details
-3. Start generating professional documents immediately
-4. Upgrade to a paid plan for additional features
+1. Sign up.
+2. Start building.
 
-## 💬 Support
 
-Need help? Contact our support team at support@docuforge.com or visit our [Help Center](https://docuforge.com/help).
-
-## 📝 License
-
-© 2025 DocuForge. All rights reserved.
